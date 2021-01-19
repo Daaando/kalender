@@ -1,0 +1,209 @@
+body {
+	margin: 0;
+	font-family: 'Marck Script', cursive;
+}
+
+.page {
+	box-sizing: border-box;
+	padding-left: 10mm;
+	padding-right: 10mm;
+	padding-top:10mm;
+	width: 290mm;
+	height: 210mm;
+}
+
+table {
+	width: 100%;
+	height: 100%;
+	border-collapse: separate;
+	border-spacing: 0;
+	border-left: 1px solid rgba(0,0,0,0.2);
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+	border-top: 1px solid rgba(0,0,0,0.2);
+}
+
+th, td {
+	border-right: 1px solid rgba(0,0,0,0.2);
+	vertical-align: top;
+}
+
+th {
+	padding: 20px 0;
+	font-size: 20px;
+}
+
+.pictogram {
+	width: auto;
+	height: 100px;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.zondag {
+	background-color: pink;
+}
+
+.maandag {
+	background-color: orange;
+}
+
+.dinsdag {
+	background-color: red;
+}
+
+.woensdag {
+	background-color: green;
+}
+
+.donderdag {
+	background-color: aqua;
+}
+
+.vrijdag {
+	background-color: purple;
+}
+
+.zaterdag {
+	background-color: yellow;
+}
+
+.kerk {
+	background-image: url('img/kerk.jpg');
+}
+
+.school {
+	background-image: url('img/school.jpg');
+}
+
+.zwemmen {
+	background-image: url('img/zwemmen.jpg');
+}
+
+.lunch {
+	background-image: url('img/lunch.jpg');
+}
+
+.lunch-school {
+	background-image: url('img/lunch-school.jpg');
+}
+
+.spelen {
+	background-image: url('img/spelen.jpg');
+}
+
+.bso {
+	background-image: url('img/bso.jpg');
+}
+
+.tv {
+	background-image: url('img/tv.jpg');
+}
+
+.boodschappen {
+	background-image: url('img/boodschappen.jpg');
+}
+
+/*h1 {
+	text-align:center;
+	font-size: 60px;
+}
+
+ol.calendar {
+	list-style: none;
+	margin: 0 25mm;
+	padding: 0;
+}
+
+ol.calendar li {
+	border: 1px solid black;
+	border-radius: 50%;
+	width: 20mm;
+	height: 20mm;
+	text-align: center;
+	line-height: 20mm;
+	float: left;
+	margin-left: 10mm;
+	margin-bottom: 10mm;
+	text-shadow: 1px 1px 8px rgba(255,255,255,0.75);
+	position: relative;
+	box-sizing: border-box;
+	-webkit-print-color-adjust:exact;
+    -webkit-filter:opacity(1);
+}
+
+ol.calendar li:nth-child(5n+1) {
+	clear: left;
+	margin-left: 0;
+}
+
+ol.calendar li .dag {
+	font-size: 50px;
+	display:block;
+	position: absolute;
+	top: -8px;
+	left:0;
+	right:0;
+}
+
+ol.calendar li .maand {
+	font-size: 30px;
+	display:block;
+	position: absolute;
+	top: 18px;
+	left:0;
+	right:0;
+}
+
+ol.calendar li.intocht-sinterklaas {
+	background: url(img/intocht-sinterklaas.jpg) no-repeat center center / cover;
+	color: #fff;
+	text-shadow: 0 0 12px rgba(0,0,0,0.75);
+	border-width: 2px;
+	border-color: #f27166;
+}
+
+ol.calendar li.jarig {
+	background: url(img/jarig.png) no-repeat center center / cover;
+	color: #fff;
+	text-shadow: 0 0 12px rgba(0,0,0,0.75);
+	border-width: 2px;
+	border-color: #f27166;
+}
+
+ol.calendar li.kinderfeestje {
+	background: url(img/kinderfeestje.jpeg) no-repeat center center / cover;
+	color: #fff;
+	text-shadow: 0 0 12px rgba(0,0,0,0.75);
+	border-width: 2px;
+	border-color: #f27166;
+}
+
+ol.calendar li.feestje-familie {
+	background: url(img/verjaardag-familie.jpg) no-repeat center center / cover;
+	color: #fff;
+	text-shadow: 0 0 12px rgba(0,0,0,0.75);
+	border-width: 2px;
+	border-color: #f27166;
+}
+
+ol.calendar li.sinterklaas {
+	background: url(img/sinterklaas.jpg) no-repeat center center / cover;
+	color: #fff;
+	text-shadow: 0 0 12px rgba(0,0,0,0.75);
+	border-width: 2px;
+	border-color: #f27166;
+}
+
+ol.calendar li.kerk {
+	background: url(img/kerk.jpg) no-repeat center center / cover;
+	color: #fff;
+	text-shadow: 0 0 12px rgba(0,0,0,0.75);
+}
+
+ol.calendar li.school {
+	background: url(img/school.jpg) no-repeat center center / cover;
+	color: #fff;
+	text-shadow: 0 0 12px rgba(0,0,0,0.75);
+	-webkit-filter: grayscale(100%);
+}*/
